@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<map>
+  <item key="L3VtYnJhY28vYXNzZXRzL2Nzcy91bWJyYWNvLmNzczsvdW1icmFjby9saWIvYm9vdHN0cmFwLXNvY2lhbC9ib290c3RyYXAtc29jaWFsLmNzczsvdW1icmFjby9saWIvZm9udC1hd2Vzb21lL2Nzcy9mb250LWF3ZXNvbWUubWluLmNzczs" file="C:\Users\rosa.downing\source\repos\RosasApplication\RosasApplication\App_Data\TEMP\ClientDependency\1_4aaef4dbe6e04548bd000e7ff727000f.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco/assets/css/umbraco.css" />
+      <file name="/umbraco/lib/bootstrap-social/bootstrap-social.css" />
+      <file name="/umbraco/lib/font-awesome/css/font-awesome.min.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnkubWluLmpzOy91bWJyYWNvL2xpYi9qcXVlcnktdWkvanF1ZXJ5LXVpLm1pbi5qczsvdW1icmFjby9saWIvanF1ZXJ5LXVpLXRvdWNoLXB1bmNoL2pxdWVyeS51aS50b3VjaC1wdW5jaC5taW4uanM7L3VtYnJhY28vbGliL2FuZ3VsYXIvYW5ndWxhci5qczsvdW1icmFjby9saWIvdW5kZXJzY29yZS91bmRlcnNjb3JlLW1pbi5qczsvdW1icmFjby9saWIvbW9tZW50L21vbWVudC5taW4uanM7L3VtYnJhY28vbGliL2ZsYXRwaWNrci9mbGF0cGlja3IuanM7L3VtYnJhY28vbGliL2FuaW1lanMvYW5pbWUubWluLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLXJvdXRlL2FuZ3VsYXItcm91dGUuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItY29va2llcy9hbmd1bGFyLWNvb2tpZXMuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItdG91Y2gvYW5ndWxhci10b3VjaC5qczsvdW1icmFjby9saWIvYW5ndWxhci1zYW5pdGl6ZS9hbmd1bGFyLXNhbml0aXplLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLWFuaW1hdGUvYW5ndWxhci1hbmltYXRlLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLW1lc3NhZ2VzL2FuZ3VsYXItbWVzc2FnZXMuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItdWktc29ydGFibGUvc29ydGFibGUuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItZHluYW1pYy1sb2NhbGUvdG1oRHluYW1pY0xvY2FsZS5taW4uanM7L3VtYnJhY28vbGliL25nLWZpbGUtdXBsb2FkL25nLWZpbGUtdXBsb2FkLm1pbi5qczsvdW1icmFjby9saWIvYW5ndWxhci1sb2NhbC1zdG9yYWdlL2FuZ3VsYXItbG9jYWwtc3RvcmFnZS5taW4uanM7L3VtYnJhY28vbGliL2NoYXJ0LmpzL2NoYXJ0Lm1pbi5qczsvdW1icmFjby9saWIvYW5ndWxhci1jaGFydC5qcy9hbmd1bGFyLWNoYXJ0Lm1pbi5qczsvdW1icmFjby9saWIvdW1icmFjby9FeHRlbnNpb25zLmpzOy91bWJyYWNvL2xpYi91bWJyYWNvL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY28vbGliL3VtYnJhY28vTGVnYWN5U3BlZWNoQnViYmxlLmpzOy91bWJyYWNvL2pzL2FwcC5qczsvdW1icmFjby9qcy91bWJyYWNvLnJlc291cmNlcy5qczsvdW1icmFjby9qcy91bWJyYWNvLmRpcmVjdGl2ZXMuanM7L3VtYnJhY28vanMvdW1icmFjby5maWx0ZXJzLmpzOy91bWJyYWNvL2pzL3VtYnJhY28uc2VydmljZXMuanM7L3VtYnJhY28vanMvdW1icmFjby5pbnRlcmNlcHRvcnMuanM7L3VtYnJhY28vanMvdW1icmFjby5jb250cm9sbGVycy5qczsvdW1icmFjby9qcy9yb3V0ZXMuanM7L3VtYnJhY28vanMvaW5pdC5qczsvQXBwX1BsdWdpbnMvTW9kZWxzQnVpbGRlci9tb2RlbHNidWlsZGVyLmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL01vZGVsc0J1aWxkZXIvbW9kZWxzYnVpbGRlci5yZXNvdXJjZS5qczsvQXBwX1BsdWdpbnMvT3NtTWFwcy9Pc21NYXBzLmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1N0YXJ0ZXJraXQvbGVzc29ucy5zZXJ2aWNlLmpzOw" file="C:\Users\rosa.downing\source\repos\RosasApplication\RosasApplication\App_Data\TEMP\ClientDependency\1_08e961cfeec24e2eb11befec59f27855.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco/lib/jquery/jquery.min.js" />
+      <file name="/umbraco/lib/jquery-ui/jquery-ui.min.js" />
+      <file name="/umbraco/lib/jquery-ui-touch-punch/jquery.ui.touch-punch.min.js" />
+      <file name="/umbraco/lib/angular/angular.js" />
+      <file name="/umbraco/lib/underscore/underscore-min.js" />
+      <file name="/umbraco/lib/moment/moment.min.js" />
+      <file name="/umbraco/lib/flatpickr/flatpickr.js" />
+      <file name="/umbraco/lib/animejs/anime.min.js" />
+      <file name="/umbraco/lib/angular-route/angular-route.js" />
+      <file name="/umbraco/lib/angular-cookies/angular-cookies.js" />
+      <file name="/umbraco/lib/angular-touch/angular-touch.js" />
+      <file name="/umbraco/lib/angular-sanitize/angular-sanitize.js" />
+      <file name="/umbraco/lib/angular-animate/angular-animate.js" />
+      <file name="/umbraco/lib/angular-messages/angular-messages.js" />
+      <file name="/umbraco/lib/angular-ui-sortable/sortable.js" />
+      <file name="/umbraco/lib/angular-dynamic-locale/tmhDynamicLocale.min.js" />
+      <file name="/umbraco/lib/ng-file-upload/ng-file-upload.min.js" />
+      <file name="/umbraco/lib/angular-local-storage/angular-local-storage.min.js" />
+      <file name="/umbraco/lib/chart.js/chart.min.js" />
+      <file name="/umbraco/lib/angular-chart.js/angular-chart.min.js" />
+      <file name="/umbraco/lib/umbraco/Extensions.js" />
+      <file name="/umbraco/lib/umbraco/NamespaceManager.js" />
+      <file name="/umbraco/lib/umbraco/LegacySpeechBubble.js" />
+      <file name="/umbraco/js/app.js" />
+      <file name="/umbraco/js/umbraco.resources.js" />
+      <file name="/umbraco/js/umbraco.directives.js" />
+      <file name="/umbraco/js/umbraco.filters.js" />
+      <file name="/umbraco/js/umbraco.services.js" />
+      <file name="/umbraco/js/umbraco.interceptors.js" />
+      <file name="/umbraco/js/umbraco.controllers.js" />
+      <file name="/umbraco/js/routes.js" />
+      <file name="/umbraco/js/init.js" />
+      <file name="/App_Plugins/ModelsBuilder/modelsbuilder.controller.js" />
+      <file name="/App_Plugins/ModelsBuilder/modelsbuilder.resource.js" />
+      <file name="/App_Plugins/OsmMaps/OsmMaps.controller.js" />
+      <file name="/App_Plugins/Starterkit/lessons.service.js" />
+    </files>
+  </item>
+  <item key="L0FwcF9QbHVnaW5zL1N0YXJ0ZXJraXQvc3RhcnRlcmtpdGhlbHAuY29udHJvbGxlci5qczsvQXBwX1BsdWdpbnMvU3RhcnRlcmtpdC90b3Vycy92aWV3cy9tZWRpYWxpYnJhcnkvdXBsb2FkaW1hZ2VzLmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1N0YXJ0ZXJraXQvdG91cnMvdmlld3MvdmFsaWRhdGV0ZXh0LmNvbnRyb2xsZXIuanM7" file="C:\Users\rosa.downing\source\repos\RosasApplication\RosasApplication\App_Data\TEMP\ClientDependency\1_2d533ffc887d49498b25824da2e97139.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/App_Plugins/Starterkit/starterkithelp.controller.js" />
+      <file name="/App_Plugins/Starterkit/tours/views/medialibrary/uploadimages.controller.js" />
+      <file name="/App_Plugins/Starterkit/tours/views/validatetext.controller.js" />
+    </files>
+  </item>
+  <item key="L0FwcF9QbHVnaW5zL1VtYnJhY29QZXJzb25hbGlzYXRpb25Hcm91cHMvR2V0UmVzb3VyY2UvcHJvcGVydHkuZWRpdG9yLmNvbnRyb2xsZXIuanMudW1iOy9BcHBfUGx1Z2lucy9VbWJyYWNvUGVyc29uYWxpc2F0aW9uR3JvdXBzL0dldFJlc291cmNlRm9yQ3JpdGVyaWEvYXV0aGVudGljYXRpb25TdGF0dXMvZGVmaW5pdGlvbi5lZGl0b3IuY29udHJvbGxlci5qcy51bWI7L0FwcF9QbHVnaW5zL1VtYnJhY29QZXJzb25hbGlzYXRpb25Hcm91cHMvR2V0UmVzb3VyY2VGb3JDcml0ZXJpYS9hdXRoZW50aWNhdGlvblN0YXR1cy9kZWZpbml0aW9uLnRyYW5zbGF0b3IuanMudW1iOy9BcHBfUGx1Z2lucy9VbWJyYWNvUGVyc29uYWxpc2F0aW9uR3JvdXBzL0dldFJlc291cmNlRm9yQ3JpdGVyaWEvY29va2llL2RlZmluaXRpb24uZWRpdG9yLmNvbnRyb2xsZXIuanMudW1iOy9BcHBfUGx1Z2lucy9VbWJyYWNvUGVyc29uYWxpc2F0aW9uR3JvdXBzL0dldFJlc291cmNlRm9yQ3JpdGVyaWEvY29va2llL2RlZmluaXRpb24udHJhbnNsYXRvci5qcy51bWI7L0FwcF9QbHVnaW5zL1VtYnJhY29QZXJzb25hbGlzYXRpb25Hcm91cHMvR2V0UmVzb3VyY2VGb3JDcml0ZXJpYS9jb250aW5lbnQvZGVmaW5pdGlvbi5lZGl0b3IuY29udHJvbGxlci5qcy51bWI7L0FwcF9QbHVnaW5zL1VtYnJhY29QZXJzb25hbGlzYXRpb25Hcm91cHMvR2V0UmVzb3VyY2VGb3JDcml0ZXJpYS9jb250aW5lbnQvZGVmaW5pdGlvbi50cmFuc2xhdG9yLmpzLnVtYjsvQXBwX1BsdWdpbnMvVW1icmFjb1BlcnNvbmFsaXNhdGlvbkdyb3Vwcy9HZXRSZXNvdXJjZUZvckNyaXRlcmlhL2NvdW50cnkvZ2VvbG9jYXRpb24uc2VydmljZS5qcy51bWI7L0FwcF9QbHVnaW5zL1VtYnJhY29QZXJzb25hbGlzYXRpb25Hcm91cHMvR2V0UmVzb3VyY2VGb3JDcml0ZXJpYS9jb3VudHJ5L2RlZmluaXRpb24uZWRpdG9yLmNvbnRyb2xsZXIuanMudW1iOy9BcHBfUGx1Z2lucy9VbWJyYWNvUGVyc29uYWxpc2F0aW9uR3JvdXBzL0dldFJlc291cmNlRm9yQ3JpdGVyaWEvY291bnRyeS9kZWZpbml0aW9uLnRyYW5zbGF0b3IuanMudW1iOy9BcHBfUGx1Z2lucy9VbWJyYWNvUGVyc29uYWxpc2F0aW9uR3JvdXBzL0dldFJlc291cmNlRm9yQ3JpdGVyaWEvZGF5T2ZXZWVrL2RlZmluaXRpb24uZWRpdG9yLmNvbnRyb2xsZXIuanMudW1iOy9BcHBfUGx1Z2lucy9VbWJyYWNvUGVyc29uYWxpc2F0aW9uR3JvdXBzL0dldFJlc291cmNlRm9yQ3JpdGVyaWEvZGF5T2ZXZWVrL2RlZmluaXRpb24udHJhbnNsYXRvci5qcy51bWI7L0FwcF9QbHVnaW5zL1VtYnJhY29QZXJzb25hbGlzYXRpb25Hcm91cHMvR2V0UmVzb3VyY2VGb3JDcml0ZXJpYS9tb250aE9mWWVhci9kZWZpbml0aW9uLmVkaXRvci5jb250cm9sbGVyLmpzLnVtYjsvQXBwX1BsdWdpbnMvVW1icmFjb1BlcnNvbmFsaXNhdGlvbkdyb3Vwcy9HZXRSZXNvdXJjZUZvckNyaXRlcmlhL21vbnRoT2ZZZWFyL2RlZmluaXRpb24udHJhbnNsYXRvci5qcy51bWI7" file="C:\Users\rosa.downing\source\repos\RosasApplication\RosasApplication\App_Data\TEMP\ClientDependency\1_eaf82b58bd6f4e5f8c191c0cd22baad0.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResource/property.editor.controller.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/authenticationStatus/definition.editor.controller.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/authenticationStatus/definition.translator.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/cookie/definition.editor.controller.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/cookie/definition.translator.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/continent/definition.editor.controller.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/continent/definition.translator.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/country/geolocation.service.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/country/definition.editor.controller.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/country/definition.translator.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/dayOfWeek/definition.editor.controller.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/dayOfWeek/definition.translator.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/monthOfYear/definition.editor.controller.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/monthOfYear/definition.translator.js.umb" />
+    </files>
+  </item>
+  <item key="L0FwcF9QbHVnaW5zL1VtYnJhY29QZXJzb25hbGlzYXRpb25Hcm91cHMvR2V0UmVzb3VyY2VGb3JDcml0ZXJpYS9xdWVyeXN0cmluZy9kZWZpbml0aW9uLnRyYW5zbGF0b3IuanMudW1iOy9BcHBfUGx1Z2lucy9VbWJyYWNvUGVyc29uYWxpc2F0aW9uR3JvdXBzL0dldFJlc291cmNlRm9yQ3JpdGVyaWEvcmVmZXJyYWwvZGVmaW5pdGlvbi5lZGl0b3IuY29udHJvbGxlci5qcy51bWI7L0FwcF9QbHVnaW5zL1VtYnJhY29QZXJzb25hbGlzYXRpb25Hcm91cHMvR2V0UmVzb3VyY2VGb3JDcml0ZXJpYS9yZWZlcnJhbC9kZWZpbml0aW9uLnRyYW5zbGF0b3IuanMudW1iOy9BcHBfUGx1Z2lucy9VbWJyYWNvUGVyc29uYWxpc2F0aW9uR3JvdXBzL0dldFJlc291cmNlRm9yQ3JpdGVyaWEvcmVnaW9uL2RlZmluaXRpb24uZWRpdG9yLmNvbnRyb2xsZXIuanMudW1iOy9BcHBfUGx1Z2lucy9VbWJyYWNvUGVyc29uYWxpc2F0aW9uR3JvdXBzL0dldFJlc291cmNlRm9yQ3JpdGVyaWEvcmVnaW9uL2RlZmluaXRpb24udHJhbnNsYXRvci5qcy51bWI7L0FwcF9QbHVnaW5zL1VtYnJhY29QZXJzb25hbGlzYXRpb25Hcm91cHMvR2V0UmVzb3VyY2VGb3JDcml0ZXJpYS9zZXNzaW9uL2RlZmluaXRpb24uZWRpdG9yLmNvbnRyb2xsZXIuanMudW1iOy9BcHBfUGx1Z2lucy9VbWJyYWNvUGVyc29uYWxpc2F0aW9uR3JvdXBzL0dldFJlc291cmNlRm9yQ3JpdGVyaWEvc2Vzc2lvbi9kZWZpbml0aW9uLnRyYW5zbGF0b3IuanMudW1iOy9BcHBfUGx1Z2lucy9VbWJyYWNvUGVyc29uYWxpc2F0aW9uR3JvdXBzL0dldFJlc291cmNlRm9yQ3JpdGVyaWEvdGltZU9mRGF5L2RlZmluaXRpb24uZWRpdG9yLmNvbnRyb2xsZXIuanMudW1iOy9BcHBfUGx1Z2lucy9VbWJyYWNvUGVyc29uYWxpc2F0aW9uR3JvdXBzL0dldFJlc291cmNlRm9yQ3JpdGVyaWEvdGltZU9mRGF5L2RlZmluaXRpb24udHJhbnNsYXRvci5qcy51bWI7" file="C:\Users\rosa.downing\source\repos\RosasApplication\RosasApplication\App_Data\TEMP\ClientDependency\1_425b44d5f83c4bb28f5a206c67083709.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/querystring/definition.translator.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/referral/definition.editor.controller.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/referral/definition.translator.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/region/definition.editor.controller.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/region/definition.translator.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/session/definition.editor.controller.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/session/definition.translator.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/timeOfDay/definition.editor.controller.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/timeOfDay/definition.translator.js.umb" />
+    </files>
+  </item>
+  <item key="L0FwcF9QbHVnaW5zL1VtYnJhY29QZXJzb25hbGlzYXRpb25Hcm91cHMvR2V0UmVzb3VyY2VGb3JDcml0ZXJpYS9ob3N0L2RlZmluaXRpb24uZWRpdG9yLmNvbnRyb2xsZXIuanMudW1iOy9BcHBfUGx1Z2lucy9VbWJyYWNvUGVyc29uYWxpc2F0aW9uR3JvdXBzL0dldFJlc291cmNlRm9yQ3JpdGVyaWEvaG9zdC9kZWZpbml0aW9uLnRyYW5zbGF0b3IuanMudW1iOy9BcHBfUGx1Z2lucy9VbWJyYWNvUGVyc29uYWxpc2F0aW9uR3JvdXBzL0dldFJlc291cmNlRm9yQ3JpdGVyaWEvbWVtYmVyR3JvdXAvZGVmaW5pdGlvbi5lZGl0b3IuY29udHJvbGxlci5qcy51bWI7L0FwcF9QbHVnaW5zL1VtYnJhY29QZXJzb25hbGlzYXRpb25Hcm91cHMvR2V0UmVzb3VyY2VGb3JDcml0ZXJpYS9tZW1iZXJHcm91cC9kZWZpbml0aW9uLnRyYW5zbGF0b3IuanMudW1iOy9BcHBfUGx1Z2lucy9VbWJyYWNvUGVyc29uYWxpc2F0aW9uR3JvdXBzL0dldFJlc291cmNlRm9yQ3JpdGVyaWEvbWVtYmVyUHJvZmlsZUZpZWxkL2RlZmluaXRpb24uZWRpdG9yLmNvbnRyb2xsZXIuanMudW1iOy9BcHBfUGx1Z2lucy9VbWJyYWNvUGVyc29uYWxpc2F0aW9uR3JvdXBzL0dldFJlc291cmNlRm9yQ3JpdGVyaWEvbWVtYmVyUHJvZmlsZUZpZWxkL2RlZmluaXRpb24udHJhbnNsYXRvci5qcy51bWI7L0FwcF9QbHVnaW5zL1VtYnJhY29QZXJzb25hbGlzYXRpb25Hcm91cHMvR2V0UmVzb3VyY2VGb3JDcml0ZXJpYS9tZW1iZXJUeXBlL2RlZmluaXRpb24uZWRpdG9yLmNvbnRyb2xsZXIuanMudW1iOy9BcHBfUGx1Z2lucy9VbWJyYWNvUGVyc29uYWxpc2F0aW9uR3JvdXBzL0dldFJlc291cmNlRm9yQ3JpdGVyaWEvbWVtYmVyVHlwZS9kZWZpbml0aW9uLnRyYW5zbGF0b3IuanMudW1iOy9BcHBfUGx1Z2lucy9VbWJyYWNvUGVyc29uYWxpc2F0aW9uR3JvdXBzL0dldFJlc291cmNlRm9yQ3JpdGVyaWEvbnVtYmVyT2ZWaXNpdHMvZGVmaW5pdGlvbi5lZGl0b3IuY29udHJvbGxlci5qcy51bWI7L0FwcF9QbHVnaW5zL1VtYnJhY29QZXJzb25hbGlzYXRpb25Hcm91cHMvR2V0UmVzb3VyY2VGb3JDcml0ZXJpYS9udW1iZXJPZlZpc2l0cy9kZWZpbml0aW9uLnRyYW5zbGF0b3IuanMudW1iOy9BcHBfUGx1Z2lucy9VbWJyYWNvUGVyc29uYWxpc2F0aW9uR3JvdXBzL0dldFJlc291cmNlRm9yQ3JpdGVyaWEvcGFnZXNWaWV3ZWQvZGVmaW5pdGlvbi5lZGl0b3IuY29udHJvbGxlci5qcy51bWI7L0FwcF9QbHVnaW5zL1VtYnJhY29QZXJzb25hbGlzYXRpb25Hcm91cHMvR2V0UmVzb3VyY2VGb3JDcml0ZXJpYS9wYWdlc1ZpZXdlZC9kZWZpbml0aW9uLnRyYW5zbGF0b3IuanMudW1iOy9BcHBfUGx1Z2lucy9VbWJyYWNvUGVyc29uYWxpc2F0aW9uR3JvdXBzL0dldFJlc291cmNlRm9yQ3JpdGVyaWEvcXVlcnlzdHJpbmcvZGVmaW5pdGlvbi5lZGl0b3IuY29udHJvbGxlci5qcy51bWI7" file="C:\Users\rosa.downing\source\repos\RosasApplication\RosasApplication\App_Data\TEMP\ClientDependency\1_9fd30a7230694af8809f3382a6b1d785.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/host/definition.editor.controller.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/host/definition.translator.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/memberGroup/definition.editor.controller.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/memberGroup/definition.translator.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/memberProfileField/definition.editor.controller.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/memberProfileField/definition.translator.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/memberType/definition.editor.controller.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/memberType/definition.translator.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/numberOfVisits/definition.editor.controller.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/numberOfVisits/definition.translator.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/pagesViewed/definition.editor.controller.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/pagesViewed/definition.translator.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/querystring/definition.editor.controller.js.umb" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vYXNzZXRzL2Nzcy91bWJyYWNvLmNzczsvdW1icmFjby9saWIvYm9vdHN0cmFwLXNvY2lhbC9ib290c3RyYXAtc29jaWFsLmNzczsvdW1icmFjby9saWIvZm9udC1hd2Vzb21lL2Nzcy9mb250LWF3ZXNvbWUubWluLmNzczs" file="C:\Users\rosa.downing\source\repos\RosasApplication\RosasApplication\App_Data\TEMP\ClientDependency\662823590_ad32195ebd834e4684d493dd7275b3e8.cdC" compression="gzip" version="662823590">
+    <files>
+      <file name="/umbraco/assets/css/umbraco.css" />
+      <file name="/umbraco/lib/bootstrap-social/bootstrap-social.css" />
+      <file name="/umbraco/lib/font-awesome/css/font-awesome.min.css" />
+    </files>
+  </item>
+  <item key="L0FwcF9QbHVnaW5zL1N0YXJ0ZXJraXQvc3RhcnRlcmtpdGhlbHAuY29udHJvbGxlci5qczsvQXBwX1BsdWdpbnMvU3RhcnRlcmtpdC90b3Vycy92aWV3cy9tZWRpYWxpYnJhcnkvdXBsb2FkaW1hZ2VzLmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1N0YXJ0ZXJraXQvdG91cnMvdmlld3MvdmFsaWRhdGV0ZXh0LmNvbnRyb2xsZXIuanM7" file="C:\Users\rosa.downing\source\repos\RosasApplication\RosasApplication\App_Data\TEMP\ClientDependency\662823590_c9b7a1644c0f4684bb165f6453c9861b.cdJ" compression="gzip" version="662823590">
+    <files>
+      <file name="/App_Plugins/Starterkit/starterkithelp.controller.js" />
+      <file name="/App_Plugins/Starterkit/tours/views/medialibrary/uploadimages.controller.js" />
+      <file name="/App_Plugins/Starterkit/tours/views/validatetext.controller.js" />
+    </files>
+  </item>
+  <item key="L0FwcF9QbHVnaW5zL1VtYnJhY29QZXJzb25hbGlzYXRpb25Hcm91cHMvR2V0UmVzb3VyY2UvcHJvcGVydHkuZWRpdG9yLmNvbnRyb2xsZXIuanMudW1iOy9BcHBfUGx1Z2lucy9VbWJyYWNvUGVyc29uYWxpc2F0aW9uR3JvdXBzL0dldFJlc291cmNlRm9yQ3JpdGVyaWEvYXV0aGVudGljYXRpb25TdGF0dXMvZGVmaW5pdGlvbi5lZGl0b3IuY29udHJvbGxlci5qcy51bWI7L0FwcF9QbHVnaW5zL1VtYnJhY29QZXJzb25hbGlzYXRpb25Hcm91cHMvR2V0UmVzb3VyY2VGb3JDcml0ZXJpYS9hdXRoZW50aWNhdGlvblN0YXR1cy9kZWZpbml0aW9uLnRyYW5zbGF0b3IuanMudW1iOy9BcHBfUGx1Z2lucy9VbWJyYWNvUGVyc29uYWxpc2F0aW9uR3JvdXBzL0dldFJlc291cmNlRm9yQ3JpdGVyaWEvY29va2llL2RlZmluaXRpb24uZWRpdG9yLmNvbnRyb2xsZXIuanMudW1iOy9BcHBfUGx1Z2lucy9VbWJyYWNvUGVyc29uYWxpc2F0aW9uR3JvdXBzL0dldFJlc291cmNlRm9yQ3JpdGVyaWEvY29va2llL2RlZmluaXRpb24udHJhbnNsYXRvci5qcy51bWI7L0FwcF9QbHVnaW5zL1VtYnJhY29QZXJzb25hbGlzYXRpb25Hcm91cHMvR2V0UmVzb3VyY2VGb3JDcml0ZXJpYS9jb250aW5lbnQvZGVmaW5pdGlvbi5lZGl0b3IuY29udHJvbGxlci5qcy51bWI7L0FwcF9QbHVnaW5zL1VtYnJhY29QZXJzb25hbGlzYXRpb25Hcm91cHMvR2V0UmVzb3VyY2VGb3JDcml0ZXJpYS9jb250aW5lbnQvZGVmaW5pdGlvbi50cmFuc2xhdG9yLmpzLnVtYjsvQXBwX1BsdWdpbnMvVW1icmFjb1BlcnNvbmFsaXNhdGlvbkdyb3Vwcy9HZXRSZXNvdXJjZUZvckNyaXRlcmlhL2NvdW50cnkvZ2VvbG9jYXRpb24uc2VydmljZS5qcy51bWI7L0FwcF9QbHVnaW5zL1VtYnJhY29QZXJzb25hbGlzYXRpb25Hcm91cHMvR2V0UmVzb3VyY2VGb3JDcml0ZXJpYS9jb3VudHJ5L2RlZmluaXRpb24uZWRpdG9yLmNvbnRyb2xsZXIuanMudW1iOy9BcHBfUGx1Z2lucy9VbWJyYWNvUGVyc29uYWxpc2F0aW9uR3JvdXBzL0dldFJlc291cmNlRm9yQ3JpdGVyaWEvY291bnRyeS9kZWZpbml0aW9uLnRyYW5zbGF0b3IuanMudW1iOy9BcHBfUGx1Z2lucy9VbWJyYWNvUGVyc29uYWxpc2F0aW9uR3JvdXBzL0dldFJlc291cmNlRm9yQ3JpdGVyaWEvZGF5T2ZXZWVrL2RlZmluaXRpb24uZWRpdG9yLmNvbnRyb2xsZXIuanMudW1iOy9BcHBfUGx1Z2lucy9VbWJyYWNvUGVyc29uYWxpc2F0aW9uR3JvdXBzL0dldFJlc291cmNlRm9yQ3JpdGVyaWEvZGF5T2ZXZWVrL2RlZmluaXRpb24udHJhbnNsYXRvci5qcy51bWI7L0FwcF9QbHVnaW5zL1VtYnJhY29QZXJzb25hbGlzYXRpb25Hcm91cHMvR2V0UmVzb3VyY2VGb3JDcml0ZXJpYS9tb250aE9mWWVhci9kZWZpbml0aW9uLmVkaXRvci5jb250cm9sbGVyLmpzLnVtYjsvQXBwX1BsdWdpbnMvVW1icmFjb1BlcnNvbmFsaXNhdGlvbkdyb3Vwcy9HZXRSZXNvdXJjZUZvckNyaXRlcmlhL21vbnRoT2ZZZWFyL2RlZmluaXRpb24udHJhbnNsYXRvci5qcy51bWI7" file="C:\Users\rosa.downing\source\repos\RosasApplication\RosasApplication\App_Data\TEMP\ClientDependency\662823590_270145c13f714f25ae5b847e7f8f0ad7.cdJ" compression="gzip" version="662823590">
+    <files>
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResource/property.editor.controller.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/authenticationStatus/definition.editor.controller.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/authenticationStatus/definition.translator.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/cookie/definition.editor.controller.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/cookie/definition.translator.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/continent/definition.editor.controller.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/continent/definition.translator.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/country/geolocation.service.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/country/definition.editor.controller.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/country/definition.translator.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/dayOfWeek/definition.editor.controller.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/dayOfWeek/definition.translator.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/monthOfYear/definition.editor.controller.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/monthOfYear/definition.translator.js.umb" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnkubWluLmpzOy91bWJyYWNvL2xpYi9qcXVlcnktdWkvanF1ZXJ5LXVpLm1pbi5qczsvdW1icmFjby9saWIvanF1ZXJ5LXVpLXRvdWNoLXB1bmNoL2pxdWVyeS51aS50b3VjaC1wdW5jaC5taW4uanM7L3VtYnJhY28vbGliL2FuZ3VsYXIvYW5ndWxhci5qczsvdW1icmFjby9saWIvdW5kZXJzY29yZS91bmRlcnNjb3JlLW1pbi5qczsvdW1icmFjby9saWIvbW9tZW50L21vbWVudC5taW4uanM7L3VtYnJhY28vbGliL2ZsYXRwaWNrci9mbGF0cGlja3IuanM7L3VtYnJhY28vbGliL2FuaW1lanMvYW5pbWUubWluLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLXJvdXRlL2FuZ3VsYXItcm91dGUuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItY29va2llcy9hbmd1bGFyLWNvb2tpZXMuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItdG91Y2gvYW5ndWxhci10b3VjaC5qczsvdW1icmFjby9saWIvYW5ndWxhci1zYW5pdGl6ZS9hbmd1bGFyLXNhbml0aXplLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLWFuaW1hdGUvYW5ndWxhci1hbmltYXRlLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLW1lc3NhZ2VzL2FuZ3VsYXItbWVzc2FnZXMuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItdWktc29ydGFibGUvc29ydGFibGUuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItZHluYW1pYy1sb2NhbGUvdG1oRHluYW1pY0xvY2FsZS5taW4uanM7L3VtYnJhY28vbGliL25nLWZpbGUtdXBsb2FkL25nLWZpbGUtdXBsb2FkLm1pbi5qczsvdW1icmFjby9saWIvYW5ndWxhci1sb2NhbC1zdG9yYWdlL2FuZ3VsYXItbG9jYWwtc3RvcmFnZS5taW4uanM7L3VtYnJhY28vbGliL2NoYXJ0LmpzL2NoYXJ0Lm1pbi5qczsvdW1icmFjby9saWIvYW5ndWxhci1jaGFydC5qcy9hbmd1bGFyLWNoYXJ0Lm1pbi5qczsvdW1icmFjby9saWIvdW1icmFjby9FeHRlbnNpb25zLmpzOy91bWJyYWNvL2xpYi91bWJyYWNvL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY28vbGliL3VtYnJhY28vTGVnYWN5U3BlZWNoQnViYmxlLmpzOy91bWJyYWNvL2pzL2FwcC5qczsvdW1icmFjby9qcy91bWJyYWNvLnJlc291cmNlcy5qczsvdW1icmFjby9qcy91bWJyYWNvLmRpcmVjdGl2ZXMuanM7L3VtYnJhY28vanMvdW1icmFjby5maWx0ZXJzLmpzOy91bWJyYWNvL2pzL3VtYnJhY28uc2VydmljZXMuanM7L3VtYnJhY28vanMvdW1icmFjby5pbnRlcmNlcHRvcnMuanM7L3VtYnJhY28vanMvdW1icmFjby5jb250cm9sbGVycy5qczsvdW1icmFjby9qcy9yb3V0ZXMuanM7L3VtYnJhY28vanMvaW5pdC5qczsvQXBwX1BsdWdpbnMvTW9kZWxzQnVpbGRlci9tb2RlbHNidWlsZGVyLmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL01vZGVsc0J1aWxkZXIvbW9kZWxzYnVpbGRlci5yZXNvdXJjZS5qczsvQXBwX1BsdWdpbnMvT3NtTWFwcy9Pc21NYXBzLmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1N0YXJ0ZXJraXQvbGVzc29ucy5zZXJ2aWNlLmpzOw" file="C:\Users\rosa.downing\source\repos\RosasApplication\RosasApplication\App_Data\TEMP\ClientDependency\662823590_34877b10dfa44146b915bf517c0cdc4b.cdJ" compression="gzip" version="662823590">
+    <files>
+      <file name="/umbraco/lib/jquery/jquery.min.js" />
+      <file name="/umbraco/lib/jquery-ui/jquery-ui.min.js" />
+      <file name="/umbraco/lib/jquery-ui-touch-punch/jquery.ui.touch-punch.min.js" />
+      <file name="/umbraco/lib/angular/angular.js" />
+      <file name="/umbraco/lib/underscore/underscore-min.js" />
+      <file name="/umbraco/lib/moment/moment.min.js" />
+      <file name="/umbraco/lib/flatpickr/flatpickr.js" />
+      <file name="/umbraco/lib/animejs/anime.min.js" />
+      <file name="/umbraco/lib/angular-route/angular-route.js" />
+      <file name="/umbraco/lib/angular-cookies/angular-cookies.js" />
+      <file name="/umbraco/lib/angular-touch/angular-touch.js" />
+      <file name="/umbraco/lib/angular-sanitize/angular-sanitize.js" />
+      <file name="/umbraco/lib/angular-animate/angular-animate.js" />
+      <file name="/umbraco/lib/angular-messages/angular-messages.js" />
+      <file name="/umbraco/lib/angular-ui-sortable/sortable.js" />
+      <file name="/umbraco/lib/angular-dynamic-locale/tmhDynamicLocale.min.js" />
+      <file name="/umbraco/lib/ng-file-upload/ng-file-upload.min.js" />
+      <file name="/umbraco/lib/angular-local-storage/angular-local-storage.min.js" />
+      <file name="/umbraco/lib/chart.js/chart.min.js" />
+      <file name="/umbraco/lib/angular-chart.js/angular-chart.min.js" />
+      <file name="/umbraco/lib/umbraco/Extensions.js" />
+      <file name="/umbraco/lib/umbraco/NamespaceManager.js" />
+      <file name="/umbraco/lib/umbraco/LegacySpeechBubble.js" />
+      <file name="/umbraco/js/app.js" />
+      <file name="/umbraco/js/umbraco.resources.js" />
+      <file name="/umbraco/js/umbraco.directives.js" />
+      <file name="/umbraco/js/umbraco.filters.js" />
+      <file name="/umbraco/js/umbraco.services.js" />
+      <file name="/umbraco/js/umbraco.interceptors.js" />
+      <file name="/umbraco/js/umbraco.controllers.js" />
+      <file name="/umbraco/js/routes.js" />
+      <file name="/umbraco/js/init.js" />
+      <file name="/App_Plugins/ModelsBuilder/modelsbuilder.controller.js" />
+      <file name="/App_Plugins/ModelsBuilder/modelsbuilder.resource.js" />
+      <file name="/App_Plugins/OsmMaps/OsmMaps.controller.js" />
+      <file name="/App_Plugins/Starterkit/lessons.service.js" />
+    </files>
+  </item>
+  <item key="L0FwcF9QbHVnaW5zL1VtYnJhY29QZXJzb25hbGlzYXRpb25Hcm91cHMvR2V0UmVzb3VyY2VGb3JDcml0ZXJpYS9ob3N0L2RlZmluaXRpb24uZWRpdG9yLmNvbnRyb2xsZXIuanMudW1iOy9BcHBfUGx1Z2lucy9VbWJyYWNvUGVyc29uYWxpc2F0aW9uR3JvdXBzL0dldFJlc291cmNlRm9yQ3JpdGVyaWEvaG9zdC9kZWZpbml0aW9uLnRyYW5zbGF0b3IuanMudW1iOy9BcHBfUGx1Z2lucy9VbWJyYWNvUGVyc29uYWxpc2F0aW9uR3JvdXBzL0dldFJlc291cmNlRm9yQ3JpdGVyaWEvbWVtYmVyR3JvdXAvZGVmaW5pdGlvbi5lZGl0b3IuY29udHJvbGxlci5qcy51bWI7L0FwcF9QbHVnaW5zL1VtYnJhY29QZXJzb25hbGlzYXRpb25Hcm91cHMvR2V0UmVzb3VyY2VGb3JDcml0ZXJpYS9tZW1iZXJHcm91cC9kZWZpbml0aW9uLnRyYW5zbGF0b3IuanMudW1iOy9BcHBfUGx1Z2lucy9VbWJyYWNvUGVyc29uYWxpc2F0aW9uR3JvdXBzL0dldFJlc291cmNlRm9yQ3JpdGVyaWEvbWVtYmVyUHJvZmlsZUZpZWxkL2RlZmluaXRpb24uZWRpdG9yLmNvbnRyb2xsZXIuanMudW1iOy9BcHBfUGx1Z2lucy9VbWJyYWNvUGVyc29uYWxpc2F0aW9uR3JvdXBzL0dldFJlc291cmNlRm9yQ3JpdGVyaWEvbWVtYmVyUHJvZmlsZUZpZWxkL2RlZmluaXRpb24udHJhbnNsYXRvci5qcy51bWI7L0FwcF9QbHVnaW5zL1VtYnJhY29QZXJzb25hbGlzYXRpb25Hcm91cHMvR2V0UmVzb3VyY2VGb3JDcml0ZXJpYS9tZW1iZXJUeXBlL2RlZmluaXRpb24uZWRpdG9yLmNvbnRyb2xsZXIuanMudW1iOy9BcHBfUGx1Z2lucy9VbWJyYWNvUGVyc29uYWxpc2F0aW9uR3JvdXBzL0dldFJlc291cmNlRm9yQ3JpdGVyaWEvbWVtYmVyVHlwZS9kZWZpbml0aW9uLnRyYW5zbGF0b3IuanMudW1iOy9BcHBfUGx1Z2lucy9VbWJyYWNvUGVyc29uYWxpc2F0aW9uR3JvdXBzL0dldFJlc291cmNlRm9yQ3JpdGVyaWEvbnVtYmVyT2ZWaXNpdHMvZGVmaW5pdGlvbi5lZGl0b3IuY29udHJvbGxlci5qcy51bWI7L0FwcF9QbHVnaW5zL1VtYnJhY29QZXJzb25hbGlzYXRpb25Hcm91cHMvR2V0UmVzb3VyY2VGb3JDcml0ZXJpYS9udW1iZXJPZlZpc2l0cy9kZWZpbml0aW9uLnRyYW5zbGF0b3IuanMudW1iOy9BcHBfUGx1Z2lucy9VbWJyYWNvUGVyc29uYWxpc2F0aW9uR3JvdXBzL0dldFJlc291cmNlRm9yQ3JpdGVyaWEvcGFnZXNWaWV3ZWQvZGVmaW5pdGlvbi5lZGl0b3IuY29udHJvbGxlci5qcy51bWI7L0FwcF9QbHVnaW5zL1VtYnJhY29QZXJzb25hbGlzYXRpb25Hcm91cHMvR2V0UmVzb3VyY2VGb3JDcml0ZXJpYS9wYWdlc1ZpZXdlZC9kZWZpbml0aW9uLnRyYW5zbGF0b3IuanMudW1iOy9BcHBfUGx1Z2lucy9VbWJyYWNvUGVyc29uYWxpc2F0aW9uR3JvdXBzL0dldFJlc291cmNlRm9yQ3JpdGVyaWEvcXVlcnlzdHJpbmcvZGVmaW5pdGlvbi5lZGl0b3IuY29udHJvbGxlci5qcy51bWI7" file="C:\Users\rosa.downing\source\repos\RosasApplication\RosasApplication\App_Data\TEMP\ClientDependency\662823590_5c26bd65710140619f7396402e2ec4df.cdJ" compression="gzip" version="662823590">
+    <files>
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/host/definition.editor.controller.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/host/definition.translator.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/memberGroup/definition.editor.controller.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/memberGroup/definition.translator.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/memberProfileField/definition.editor.controller.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/memberProfileField/definition.translator.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/memberType/definition.editor.controller.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/memberType/definition.translator.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/numberOfVisits/definition.editor.controller.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/numberOfVisits/definition.translator.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/pagesViewed/definition.editor.controller.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/pagesViewed/definition.translator.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/querystring/definition.editor.controller.js.umb" />
+    </files>
+  </item>
+  <item key="L0FwcF9QbHVnaW5zL1VtYnJhY29QZXJzb25hbGlzYXRpb25Hcm91cHMvR2V0UmVzb3VyY2VGb3JDcml0ZXJpYS9xdWVyeXN0cmluZy9kZWZpbml0aW9uLnRyYW5zbGF0b3IuanMudW1iOy9BcHBfUGx1Z2lucy9VbWJyYWNvUGVyc29uYWxpc2F0aW9uR3JvdXBzL0dldFJlc291cmNlRm9yQ3JpdGVyaWEvcmVmZXJyYWwvZGVmaW5pdGlvbi5lZGl0b3IuY29udHJvbGxlci5qcy51bWI7L0FwcF9QbHVnaW5zL1VtYnJhY29QZXJzb25hbGlzYXRpb25Hcm91cHMvR2V0UmVzb3VyY2VGb3JDcml0ZXJpYS9yZWZlcnJhbC9kZWZpbml0aW9uLnRyYW5zbGF0b3IuanMudW1iOy9BcHBfUGx1Z2lucy9VbWJyYWNvUGVyc29uYWxpc2F0aW9uR3JvdXBzL0dldFJlc291cmNlRm9yQ3JpdGVyaWEvcmVnaW9uL2RlZmluaXRpb24uZWRpdG9yLmNvbnRyb2xsZXIuanMudW1iOy9BcHBfUGx1Z2lucy9VbWJyYWNvUGVyc29uYWxpc2F0aW9uR3JvdXBzL0dldFJlc291cmNlRm9yQ3JpdGVyaWEvcmVnaW9uL2RlZmluaXRpb24udHJhbnNsYXRvci5qcy51bWI7L0FwcF9QbHVnaW5zL1VtYnJhY29QZXJzb25hbGlzYXRpb25Hcm91cHMvR2V0UmVzb3VyY2VGb3JDcml0ZXJpYS9zZXNzaW9uL2RlZmluaXRpb24uZWRpdG9yLmNvbnRyb2xsZXIuanMudW1iOy9BcHBfUGx1Z2lucy9VbWJyYWNvUGVyc29uYWxpc2F0aW9uR3JvdXBzL0dldFJlc291cmNlRm9yQ3JpdGVyaWEvc2Vzc2lvbi9kZWZpbml0aW9uLnRyYW5zbGF0b3IuanMudW1iOy9BcHBfUGx1Z2lucy9VbWJyYWNvUGVyc29uYWxpc2F0aW9uR3JvdXBzL0dldFJlc291cmNlRm9yQ3JpdGVyaWEvdGltZU9mRGF5L2RlZmluaXRpb24uZWRpdG9yLmNvbnRyb2xsZXIuanMudW1iOy9BcHBfUGx1Z2lucy9VbWJyYWNvUGVyc29uYWxpc2F0aW9uR3JvdXBzL0dldFJlc291cmNlRm9yQ3JpdGVyaWEvdGltZU9mRGF5L2RlZmluaXRpb24udHJhbnNsYXRvci5qcy51bWI7" file="C:\Users\rosa.downing\source\repos\RosasApplication\RosasApplication\App_Data\TEMP\ClientDependency\662823590_83d114d69a50432baf45af7ca07f6fd9.cdJ" compression="gzip" version="662823590">
+    <files>
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/querystring/definition.translator.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/referral/definition.editor.controller.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/referral/definition.translator.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/region/definition.editor.controller.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/region/definition.translator.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/session/definition.editor.controller.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/session/definition.translator.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/timeOfDay/definition.editor.controller.js.umb" />
+      <file name="/App_Plugins/UmbracoPersonalisationGroups/GetResourceForCriteria/timeOfDay/definition.translator.js.umb" />
+    </files>
+  </item>
+</map>

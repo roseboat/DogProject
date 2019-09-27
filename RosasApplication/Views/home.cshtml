@@ -1,0 +1,49 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoViewPage<ContentModels.Home>
+@using ContentModels = Umbraco.Web.PublishedModels;
+@{
+    Layout = "master.cshtml";
+}
+<section class="section">
+    <div class="container">
+        <h1 class="polariseHeading">~ Polarise Your News ~</h1>
+        <form>
+            <p class="political-spectrum_slider">
+                <span class="lefty">LEFT</span>
+                <input type="range" name="amountRange" min="-10" max="10" value="0" oninput="this.form.amountInput.value=this.value" />
+                <span class="righty">RIGHT</span>
+            </p>
+
+            <p class="political-spectrum">
+                <label for="political-spectrum" class="political-spectrum_label">Rate yourself on the political spectrum:</label>
+                <input type="number" name="amountInput" min="-10" max="10" value="0" oninput="this.form.amountRange.value=this.value" id="score" />
+                <span class="bounded"><label>Within bounds: </label> <input type="radio" id="bounded" name="bound" /></span>
+                <span class="unbounded"><label>All news: </label><input type="radio" id="unbounded" name="bound" checked /></span>
+
+
+                <button class="political-spectrum_submit" type="button" id="polarise-button">Polarise!</button>
+            </p>
+        </form>
+    </div>
+</section>
+
+
+<section>
+    <div class="container">
+        <div id="polarise-output">
+            
+
+
+        </div>
+    </div>
+</section>
+
+@*<section class="articles">
+    <div class="container">
+
+        @foreach (var singleArticle in Model.Articles)
+        {
+            @Html.Partial("Article", singleArticle)
+        }
+
+    </div>
+</section>*@

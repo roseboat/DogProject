@@ -1,0 +1,14 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoViewPage<ContentModels.Article>
+@using ContentModels = Umbraco.Web.PublishedModels;
+
+
+<div class="row article wrapper">
+    <img class="article image flexed" src="@Model.ArticleImage.Url" />
+    <div class="article text">
+        <h3 class="article headline">
+            @Model.Headline
+        </h3>       
+        <p class="article preamble">@Model.Preamble</p>
+
+    </div>
+</div>
